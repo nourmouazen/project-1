@@ -3,11 +3,14 @@
 #border{
 	margin-left: 150px: 
 	border-style: solid ;
-	background-color: #BEBEBE;
+	background-color: rgb(196,196,196,0.6) ;
 	margin-left:  250px;
 	margin-right: 250px;
 	margin-top: 75px;
 	margin-bottom: 
+}
+#border-a{
+	background-color: rgb(196,196,196,0.6) ;
 }
 
 h1{text-align: center;
