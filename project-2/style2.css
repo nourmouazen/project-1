@@ -11,3 +11,33 @@
 margin-left: 1200px;
 	
 }
+body{
+	background: #FFB4B4;
+
+}
+
+#head1{
+	margin-left: 550px;
+}
+
+#img3{
+
+	margin-top: 50px;
+	margin-left: 100px
+}
+#book3{
+
+margin-top: -370px;
+margin-left: 450px
+}
+#price3{
+	margin-top: -50px;
+	margin-left: -175px;
+	
+}
+#input-text{
+	margin-left: 550px
+}
+#add{
+	margin-left: 20px
+}
