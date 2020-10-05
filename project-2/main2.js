@@ -39,6 +39,12 @@ console.log(localStorage)
 $("#input-text").val("")
 })
 
+$("#enter").click(function() {
+	var visitor=$("#your-name").val()
+	var url = "file:///C:/Users/Toshiba/Desktop/project-1/project-1/project-2/index2.html"
+	alert("Welcome  "+  visitor  +" In Our Books World....."+"Today a reader, Tomorrow a leader")
+	window.open(url)
+});
 // $("#search").click(function(){
 // 	var book = ["1948","The kite runner","Eat, Pray, Love","How to Fall in Love","Wolf Hall","Brideshead Revisited"]
 // 	var text = $("#search-book").val()
